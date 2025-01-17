@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DYPIMED LIBRARY",
+    "desc": "This Project is all about making a effective and responsive library management sytem yousing technologies like HTML,CSS,JavaScript,PHP and MySQL.",
+    "image": "DYPIMED",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pratiknanavare007/DYPIMED_Library_Management_System"
+    }
+  },
+  {
+    "name": "Campus Training and Placement Cell Management System",
+    "desc": "A Campus Training and Placement Cell System is a platform designed to streamline the placement process languages used java and MYSQL.",
+    "image": "CTAPCMS",
+    "category": "deskapps",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pratiknanavare007/Campus_Training_And-Placement_Cell_System"
+    }
+  },
+  {
+    "name": "CWRMS",
+    "desc": "This projecr is all about making a effective and responsive car wash record management sytem yousing technologies like HTML,CSS,JavaScript,PHP and MySQL.",
+    "image": "CWRMS",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pratiknanavare007/CWRMS"
+    }
+  }
+]
